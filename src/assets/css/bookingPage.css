@@ -1,0 +1,53 @@
+.rental-page {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 1rem;
+  }
+  
+  .rental-details {
+    flex-basis: 60%;
+    flex: 2 1;
+    margin-right: 20px;
+  }
+  
+  .rental-details img {
+    width: 70%;
+    height: 300px;
+  }
+  
+  .reviews {
+    margin-top: 2rem;
+  }
+  
+  /* .reviews-list {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 2rem;
+  } */
+  
+  .review {
+    flex-basis: calc(50% - 1rem);
+    padding: 1rem;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    margin-bottom: 5px;
+  }
+  
+  .cost-details {
+    flex-basis: 40%;
+    padding: 2rem;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    background-color: #f7f7f7;
+    flex: 1;
+  }
+  
+  .rentalinternaldiv{
+    padding:30px;
+  }
+  
+  .css-1oxen2w-MuiTypography-root{
+    display: flex;
+    align-items: center;
+  }
+  

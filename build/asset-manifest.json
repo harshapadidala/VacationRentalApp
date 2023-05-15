@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/static/css/main.872213be.css",
+    "main.js": "/static/js/main.b9b34b91.js",
+    "static/js/787.8679c7de.chunk.js": "/static/js/787.8679c7de.chunk.js",
+    "static/media/home-bg.jpg": "/static/media/home-bg.f2617285b9a96097dd2d.jpg",
+    "static/media/add-image.jpg": "/static/media/add-image.ba368bbbdaa2421b1691.jpg",
+    "static/media/rentalLogo.png": "/static/media/rentalLogo.257e61baa02888a948e7.png",
+    "index.html": "/index.html",
+    "main.872213be.css.map": "/static/css/main.872213be.css.map",
+    "main.b9b34b91.js.map": "/static/js/main.b9b34b91.js.map",
+    "787.8679c7de.chunk.js.map": "/static/js/787.8679c7de.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.872213be.css",
+    "static/js/main.b9b34b91.js"
+  ]
+}
